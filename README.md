@@ -1,1 +1,1 @@
-# Awaqi_cpp is a repository for c plus plus files I practice from Awaqi course.
+# Awaqi_cpp is a repository for c++ files I practice from Awaqi course.
